@@ -8,11 +8,6 @@ const Header = styled(Box)`
   }
 `;
 
-const Image = styled("img")({
-  width: "20%",
-  height: "20%",
-});
-
 const Contact = () => {
   return (
     <Header>

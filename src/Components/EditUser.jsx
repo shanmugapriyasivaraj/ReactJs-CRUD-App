@@ -34,7 +34,7 @@ function EditUser() {
 
   useEffect(() => {
     getUserData();
-  }, []);
+  });
 
   const getUserData = async () => {
     let response = await getUser(id);
