@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Varun Krishnan",
+      "nickName": "Varun",
+      "phoneNumber": "1234567890",
+      "email": "varun@gmail.com",
+      "id": "YLB_-dB"
+    },
+    {
+      "name": "Nithya Vasudevan",
+      "nickName": "Nithya",
+      "phoneNumber": "1548965231",
+      "email": "nithya@gmail.com",
+      "id": "19kwe8H"
+    }
+  ]
+}
